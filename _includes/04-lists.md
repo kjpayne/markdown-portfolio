@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Metroid
+2. Legend of Zelda
+3. Shovel Knight
+4. Pokemon
+5. Kirby
